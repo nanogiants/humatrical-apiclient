@@ -1,0 +1,11 @@
+{
+  "name": "humatrical-apiclient",
+  "version": "1.0.0",
+  "description": "This is a wrapper for the humatrical api",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Stefan Neidig <s.neidig@appcom-interactive.de> (https://appcom-interactive.de)",
+  "license": "MIT"
+}

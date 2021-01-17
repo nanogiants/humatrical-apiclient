@@ -4,8 +4,20 @@
   "description": "This is a wrapper for the humatrical api",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "author": "Stefan Neidig <s.neidig@appcom-interactive.de> (https://appcom-interactive.de)",
-  "license": "MIT"
+  "keywords": [
+    "humatrical",
+    "api-client",
+    "api"
+  ],
+  "author": "Stefan Neidig <s.neidig@nanogiants.de> (https://nanogiants.de)",
+  "homepage": "https://nanogiants.de",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com:nanogiants/humatrical-apiclient.git"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.1.3"
+  }
 }
